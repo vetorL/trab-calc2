@@ -1,3 +1,6 @@
+> [!NOTE]  
+> O organizador do grupo se compromete a fazer as páginas que restarem. Não se preocupe, você não precisará fazer mais que uma!
+
 # Instruções
 
 - Cada participante do grupo que contribuir ao menos 1 página terá seu nome incluso na entrega.
