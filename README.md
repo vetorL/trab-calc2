@@ -2,13 +2,13 @@
 
 - Cada participante do grupo que contribuir ao menos 1 página terá seu nome incluso na entrega.
 
-- Veja a planilha para visualizar quais páginas estão disponíveis.
+- Veja a [planilha](https://docs.google.com/spreadsheets/d/1yBYYh3GyMOB7z_2LyevmkV7_lwGulMXcnQyxVmacuEs/edit?gid=0#gid=0) para visualizar quais páginas estão disponíveis.
 
 - Mande mensagem no grupo do WhatsApp reservando a página que você vai fazer.
 
 > [!WARNING]  
 > A entrega de uma página que já foi entregue/reservada por outro membro do grupo será ignorada e não implicará na inclusão do seu nome na entrega.
-> Verifique a planilha!!!
+> Verifique a [planilha](https://docs.google.com/spreadsheets/d/1yBYYh3GyMOB7z_2LyevmkV7_lwGulMXcnQyxVmacuEs/edit?gid=0#gid=0)!!!
 
 ## Como devo entregar?
 
