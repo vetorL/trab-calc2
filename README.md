@@ -17,7 +17,7 @@ Entregue o código fonte da página que você fez enviando uma mensagem no chat 
 Não faça um Pull Request neste repositório, e não mande pelo grupo do WhatsApp.
 
 > [!NOTE]  
-> Essas são medidas para evitar que outros grupo copiem nosso trabalho. Não podemos arriscar que o professor reduza nossa nota por causa disso.
+> Essas são medidas para evitar que outros grupos copiem nosso trabalho. Não podemos arriscar que o professor reduza nossa nota por causa disso.
 
 ## Dicas
 
