@@ -30,3 +30,10 @@ O professor recomendou duas aplicações para a realização do trabalho:
 
 - [TexStudio](https://www.texstudio.org/)
 - [Overleaf](https://pt.overleaf.com/)
+
+## Integrantes que já entregaram:
+
+- Vítor Benvenisti Laguna Navarenho (14749425)
+- Karen Miyuki Massuda (14585868)
+- Pedro Hideo Assakura Moreira (13748061)
+- Thales Nogueira (13720262)
