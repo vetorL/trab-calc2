@@ -37,3 +37,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Karen Miyuki Massuda (14585868)
 - Pedro Hideo Assakura Moreira (13748061)
 - Thales Nogueira (13720262)
+- Silvio Bertoldo (11802381)
