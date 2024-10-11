@@ -39,3 +39,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Thales Nogueira (13720262)
 - Silvio Bertoldo (11802381)
 - Matheus Pimentel da Silva (13729751)
+- Ana Beatriz Rosa Valadares (14745272)
