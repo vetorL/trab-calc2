@@ -40,3 +40,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Silvio Bertoldo (11802381)
 - Matheus Pimentel da Silva (13729751)
 - Ana Beatriz Rosa Valadares (14745272)
+- Marcio Lopes de Oliveira Filho (14712744)
