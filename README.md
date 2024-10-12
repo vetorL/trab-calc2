@@ -42,3 +42,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Ana Beatriz Rosa Valadares (14745272)
 - Marcio Lopes de Oliveira Filho (14712744)
 - Valéria Caroline Silva (14677401)
+- Leonel Marcoantonio Morgado (14778136)
