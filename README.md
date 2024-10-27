@@ -44,3 +44,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Valéria Caroline Silva (14677401)
 - Leonel Marcoantonio Morgado (14778136)
 - Kevin Tamayose (14669711)
+- Luis Yudi Odake Ferreira (14592498)
