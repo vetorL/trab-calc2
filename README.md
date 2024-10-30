@@ -45,3 +45,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Leonel Marcoantonio Morgado (14778136)
 - Kevin Tamayose (14669711)
 - Luis Yudi Odake Ferreira (14592498)
+- Gustavo Pompermayer Fulanetti Silva (14760280)
