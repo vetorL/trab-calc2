@@ -46,3 +46,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Kevin Tamayose (14669711)
 - Luis Yudi Odake Ferreira (14592498)
 - Gustavo Pompermayer Fulanetti Silva (14760280)
+- Pedro Guilherme Fioravanti (10764954)
