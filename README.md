@@ -52,3 +52,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Renan Moura Nascimento (14748921)
 - Luís Felipe Pinheiro Felisberto (14747851)
 - Daniela Yumi Takara (13659997)
+- Guilherme Secundo Santos (14760297)
