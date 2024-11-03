@@ -51,3 +51,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Thiago Costa Ré da Mota (14760255)
 - Renan Moura Nascimento (14748921)
 - Luís Felipe Pinheiro Felisberto (14747851)
+- Daniela Yumi Takara (13659997)
