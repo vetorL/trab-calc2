@@ -54,3 +54,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Daniela Yumi Takara (13659997)
 - Guilherme Secundo Santos (14760297)
 - João Gabriel de Senna Lamolha (14777879)
+- Theo Djrdjrjan Brito (13688367)
