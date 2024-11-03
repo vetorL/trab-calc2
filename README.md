@@ -53,3 +53,4 @@ O professor recomendou duas aplicações para a realização do trabalho:
 - Luís Felipe Pinheiro Felisberto (14747851)
 - Daniela Yumi Takara (13659997)
 - Guilherme Secundo Santos (14760297)
+- João Gabriel de Senna Lamolha (14777879)
